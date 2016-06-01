@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Proudly handcrafted in Kitchener, Ontario Canada.'
-datePublished: '2016-06-01T03:02:16.033Z'
-dateModified: '2016-06-01T03:02:11.136Z'
+datePublished: '2016-06-01T03:04:42.000Z'
+dateModified: '2016-06-01T03:04:37.302Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-01-proudly-handcrafted-in-kitchener-ontario-canada.md
@@ -26,3 +26,5 @@ Proudly handcrafted in Kitchener, Ontario Canada.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a90aab1-4a74-4cb4-9c92-ea4cc6bb4f9a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f953b6-d286-440b-b2c0-291116dab77b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1404a36-9cc4-4c0c-a94b-da527b964fed.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0801e984-d2c2-4db2-a5fd-8c5841f20fb0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f602c5-c029-426f-9b1a-b189982a7aa6.jpg)
