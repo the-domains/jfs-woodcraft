@@ -1,7 +1,7 @@
 name: JFS Woodcraft
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 1
+typography_spectrum: 0.07792
 title: 'JFS Woodcraft | Custom Reclaimed Goods | Kitchener'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#cacaca'
     - '#525252'
     - '#808080'
-  brandStrength: 0.5
+  brandStrength: 0.9375
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
