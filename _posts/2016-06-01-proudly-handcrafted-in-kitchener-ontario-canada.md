@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Proudly handcrafted in Kitchener, Ontario Canada.'
-datePublished: '2016-06-01T03:04:42.000Z'
-dateModified: '2016-06-01T03:04:37.302Z'
+description: ''
+datePublished: '2016-06-01T11:24:20.945Z'
+dateModified: '2016-06-01T11:18:07.534Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-01-proudly-handcrafted-in-kitchener-ontario-canada.md
@@ -17,14 +17,7 @@ url: proudly-handcrafted-in-kitchener-ontario-canada/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59ab0697-7327-4aab-8383-df8284789706.jpg)
-
-Welcome to JFS Woodcraft, all of our pieces are made from 100% Canadian reclaimed goods. 
-
-Proudly handcrafted in Kitchener, Ontario Canada.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87287a56-cb93-45fb-9e0e-0742073049e5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a90aab1-4a74-4cb4-9c92-ea4cc6bb4f9a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f953b6-d286-440b-b2c0-291116dab77b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1404a36-9cc4-4c0c-a94b-da527b964fed.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0801e984-d2c2-4db2-a5fd-8c5841f20fb0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f602c5-c029-426f-9b1a-b189982a7aa6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb1948bc-5376-435f-a58c-2e0c56e04f68.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6acb2118-1ee6-4cd3-a487-ffc1c9eedf58.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f33c6a-642d-4aff-8dee-49ff69b12906.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abf8000c-2fdc-46c6-8bf7-9de2f777bc97.jpg)
