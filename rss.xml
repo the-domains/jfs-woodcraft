@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[JFS Woodcraft]]></title>
-        <description><![CDATA[JFS Woodcraft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[JFS Woodcraft | Custom Reclaimed Goods | Kitchener]]></title>
+        <description><![CDATA[JFS Woodcraft | Custom Reclaimed Goods | Kitchener]]></description>
+        <link>https://thegrid.ai/jfs-woodcraft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 02:49:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 03:03:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jfs-woodcraft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87287a56-cb93-45fb-9e0e-0742073049e5.jpg">]]></description>
-            <link>undefinedproudly-handcrafted-in-kitchener-ontario-canada/index.html</link>
+            <link>https://thegrid.ai/jfs-woodcraft/proudly-handcrafted-in-kitchener-ontario-canada/index.html</link>
             <guid isPermaLink="false">910b0b9a-878a-4e53-80f2-77f643a15eeb</guid>
-            <pubDate>Wed, 01 Jun 2016 02:49:30 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 03:02:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
